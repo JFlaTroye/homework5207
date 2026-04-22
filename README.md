@@ -1,5 +1,4 @@
-# homework5207
-5207project
+# 5207project-group4
 ├── 5207Code.py                          # core main code
 │   └── Framework definition, score calculation, automatic ranking, basic visualization, full data export
 ├── 5207png.py                           # Expand visualization code
